@@ -1,0 +1,100 @@
+
+/* 页脚代码 */
+ .page-foot .ts{
+	overflow: hidden;
+	margin: 30px auto;
+}
+.page-foot .ts li{
+	width: 240px ;
+	border-right: 
+	1px solid #B0B0B0;
+	line-height:25px;
+	float: left;
+	font-size: 16px;
+	text-align: center;
+	color: #616161;
+	
+}
+.page-foot .ts li i{
+	font-size: 22px;
+	margin-right: 5px;
+	position: relative;
+	top: 3px;
+	
+}
+.page-foot .ts li a:hover{
+	color: #FF6700;
+}
+.page-foot .ts li:last-child{
+	border-right: none;
+	
+}
+.page-foot .nav{
+	border-top: 1px solid #E0E0E0;
+	padding-top: 40px;
+	
+}
+.page-foot .nav .lt{
+	float: left;
+	width: 964px;
+	border-right:1px solid #e0e0e0 ;
+	
+}
+.page-foot .nav .lt dl{
+	width: 241px;
+	float: left;
+
+
+}
+.page-foot .nav .lt dt{
+	color: #424242;
+	font-size: 14px;
+	line-height:40px;
+	
+}
+.page-foot .nav .lt dd{
+	color: #757575;
+	line-height: 30px;
+}
+.page-foot .nav .lt dd:hover{
+	color: #FF6700;
+}
+.page-foot .nav .gt{
+	width: 240px;
+	float: right;
+	margin-right:190px ;
+	text-align: center;	
+}
+.page-foot .nav .gt h3{
+	font-weight: normal;
+	color: #FF6700;
+	font-size: 22px;
+	
+}
+.page-foot .nav .gt h4{
+	font-size: 12px;
+	font-weight: normal;
+	color: #757575;
+	line-height: 30px;
+}
+.page-foot .nav .gt p{
+	color: #757575;
+}
+.page-foot .nav .gt .concat{
+	display: block;
+	width: 128px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	border: 1px solid #FF6700;
+	color: #FF6700;
+	margin: 20px auto ;
+}
+.page-foot .nav .gt .concat i{
+	margin-right: 3px;
+	
+}
+.page-foot .nav .gt .concat:hover{
+	color: #fff;
+	background-color: #FF6700;
+}
